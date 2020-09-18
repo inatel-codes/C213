@@ -1,0 +1,5 @@
+a) O tempo de acomodação do sistema aumentou em relação ao início.
+
+b) Neste caso, ocorreu overshooting e o tempo de acomodação do sistema aumentou em relação ao início.
+
+c) O tempo de acomodação diminui em relação ao início, resultando no menor tempo.

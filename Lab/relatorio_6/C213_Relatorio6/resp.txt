@@ -1,0 +1,5 @@
+a) Quando aumentamos o ganho derivativo de 0,1 para 10, o tempo de acomodação do sistema foi um pouco mais rápido em relação ao inicial.
+
+b) Quando aumentamos o ganho derivativo de 0,1 para 16, o tempo de acomodação do sistema foi um pouco mais rápido em relação ao inicial.
+
+c) Quando aumentamos o ganho derivativo de 0,1 para 26, ocorreu overshooting e o tempo de acomodação do sistema aumentou em relação ao início.
