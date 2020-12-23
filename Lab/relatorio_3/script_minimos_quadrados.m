@@ -1,3 +1,7 @@
+resp = resp0_2
+degrau = degrau0_2
+tempo = tempo0_2
+
 [L, C] = size(resp); %Dimensões do vetor resp - [L, C] - L linhas e C colunas
 if (L > 1) %Número de linhas do vetor coluna
   F = [resp(1:L-1,1) degrau(1:L-1,1)];
@@ -17,5 +21,5 @@ clear F
 clear J
 clear Theta
 
-sysZ = tf(b1,[1 -a1],0.1) %Tempo de amostragem de 0.1 segundos
+sysZ = tf(b1,[1 -a1],0.2) %Tempo de amostragem de 0.1 segundos
 sysS = d2c(sysZ)
